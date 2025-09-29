@@ -1,3 +1,7 @@
 partner list
+<<<<<<< HEAD
 SalesInc
+=======
+
+>>>>>>> refs/rewritten/H-sdf
 TheStartup
